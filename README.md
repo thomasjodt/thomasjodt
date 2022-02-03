@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomasjodt.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Web Development in the area of Frontend.
+- 🌱 I’m currently learning Web Development in the area of Frontend at Platzi.com
 - 💞️ I am looking to gain more knowledge and improve my programming skills.
 - 📫 You can reach me by: 
    - +51 955300933
