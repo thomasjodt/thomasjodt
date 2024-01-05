@@ -1,5 +1,7 @@
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0189c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-orlando-diaz-torrealva-83b00b16a/)
+<a href="https://www.linkedin.com/in/thomasjodt" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-0189c7?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 [![](https://img.shields.io/twitter/follow/thomasjodt?style=for-the-badge&color=4361ee&labelColor=161616&logo=github&label=thomasjodt)](https://thomasjodt.github.io)
 
